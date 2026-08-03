@@ -3,6 +3,7 @@
 ---**ITALIANO**---
 
 Plugin Audio in formato Vst3 di una Catena Modulare Di Effetti
+Tecnologie usate: C++, JUCE, programmazione ad oggetti
 
 Il Plugin presenta 3 effetti:
 
@@ -30,6 +31,7 @@ Fai il Download del Plugin qui: https://github.com/SimPicc/Portfolio/tree/main/D
 ---**ENGLISH**---
 
 Audio Plugin in VST3 format for a Modular Effects Chain
+Technologies used: C++, Juce, OOP
 
 The plugin features 3 effects:
 
