@@ -3,6 +3,7 @@
 Sito Web creato per esame universitario
 
 Breve video di dimostrazione
+
 ![Demo del sito](./Rec_Breve_Muusico.gif)
 
 Video esteso: https://github.com/SimPicc/Portfolio/tree/main/Muusico%20(Web%20Site)%20-%20Esame%20Programmazione%20Per%20Il%20Web/Registrazione%20Sito%20In%20Funzione
