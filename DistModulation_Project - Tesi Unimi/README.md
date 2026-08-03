@@ -23,7 +23,7 @@ Sviluppi futuri per la catena -> Rendere il posizionamento degli effetti tramite
 
 Ascolta degli esempi registrati utilizzando il Plugin: https://github.com/SimPicc/DistModulation-Project/tree/main/Esempi%20Audio
 
-Fai il Download del Plugin qui: https://github.com/SimPicc/DistModulation-Project/tree/main/Plugin%20Download
+Fai il Download del Plugin qui: https://github.com/SimPicc/Portfolio/tree/main/DistModulation_Project%20-%20Tesi%20Unimi/Plugin%20Download
 
 
 
@@ -49,4 +49,4 @@ Future developments for the chain -> Make the placement of effects via Drag&Drop
 
 Listen to recorded examples using the plugin: https://github.com/SimPicc/DistModulation-Project/tree/main/Esempi%20Audio
 
-Download the plugin here: https://github.com/SimPicc/DistModulation-Project/tree/main/Plugin%20Download
+Download the plugin here: https://github.com/SimPicc/Portfolio/tree/main/DistModulation_Project%20-%20Tesi%20Unimi/Plugin%20Download
