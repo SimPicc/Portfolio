@@ -17,3 +17,6 @@ Tipologia: Compravendita di strumenti musicali
 -**Amministratore** -> Autorizza l'iscrizione al sito da parte degli utenti, può bloccare/sbloccare utenit, eliminare recensioni, eleminare prodotti 
 
 Nel file **funzioni.php** sono presenti le query più importanti per il corretto funzionamento del sito, riguardo l'aggiunta, l'eliminazione o la modifica di prodotti e recensioni, il filtraggio sulla ricerca di un determinato prodotto ecc...
+
+
+Sito programmato in collaborazione con Derin Donmez
