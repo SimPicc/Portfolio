@@ -1,5 +1,7 @@
 # **MUUSICO**
 
+**--ITALIANO--**
+
 Sito Web creato per esame universitario
 
 Breve video di dimostrazione
@@ -25,4 +27,33 @@ Tipologia: Compravendita di strumenti musicali
 Nel file **funzioni.php**(https://github.com/SimPicc/Portfolio/blob/main/Muusico%20(Web%20Site)%20-%20Esame%20Programmazione%20Per%20Il%20Web/funzioni.php) sono presenti le query più importanti per il corretto funzionamento del sito, riguardo l'aggiunta, l'eliminazione o la modifica di prodotti e recensioni, il filtraggio sulla ricerca di un determinato prodotto ecc...
 
 
-Sito programmato in collaborazione con Derin Donmez
+Progetto elaborato in coppia
+
+
+**--ENGLISH--**
+Website created for a university exam
+
+Short demonstration video
+
+![Site demo](./Rec_Breve_Muusico.gif)
+
+Extended video: https://github.com/SimPicc/Portfolio/tree/main/Muusico%20(Web%20Site)%20-%20Esame%20Programmazione%20Per%20Il%20Web/Registrazione%20Sito%20In%20Funzione
+
+**Technologies used**: HTML, CSS, PHP, SQL, XAMPP, Bootstrap, JavaScript
+
+Site name: Muusico
+
+Type: Musical instrument marketplace
+
+3 user types:
+
+-**Buyer** -> Can view products, read reviews from users who purchased a specific product, buy products by adding them to the cart, write reviews for purchased products, and view past orders
+
+-**Seller** -> Can add products for sale, manage stock quantities, and edit product listings
+
+-**Administrator** -> Approves user registrations, can block/unblock users, and delete reviews or products
+
+The **funzioni.php** file (https://github.com/SimPicc/Portfolio/blob/main/Muusico%20(Web%20Site)%20-%20Esame%20Programmazione%20Per%20Il%20Web/funzioni.php) contains the key queries required for the site's proper functioning—handling the addition, deletion, or modification of products and reviews, product search filtering, etc.
+
+
+Project developed as a two-person team
