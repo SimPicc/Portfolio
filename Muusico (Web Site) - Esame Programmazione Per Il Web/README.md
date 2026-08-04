@@ -13,7 +13,7 @@ https://github.com/SimPicc/Portfolio/tree/main/Muusico%20(Web%20Site)%20-%20Esam
 
 
 
-**---ITALIANO---**
+## **---ITALIANO---**
 
 Sito Web creato per esame universitario
 
@@ -42,7 +42,7 @@ Progetto elaborato in coppia
 
 
 
-**---ENGLISH---**
+## **---ENGLISH---**
 
 Website created for a university exam
 
