@@ -1,14 +1,21 @@
 # **MUUSICO**
 
+
+Breve video di dimostrazione/Short demonstration video
+
+![Demo del sito](./Rec_Breve_Muusico.gif)
+
+
+Video esteso/Extended Video
+
+https://github.com/SimPicc/Portfolio/tree/main/Muusico%20(Web%20Site)%20-%20Esame%20Programmazione%20Per%20Il%20Web/Registrazione%20Sito%20In%20Funzione
+
+
+
 **---ITALIANO---**
 
 Sito Web creato per esame universitario
 
-Breve video di dimostrazione
-
-![Demo del sito](./Rec_Breve_Muusico.gif)
-
-Video esteso: https://github.com/SimPicc/Portfolio/tree/main/Muusico%20(Web%20Site)%20-%20Esame%20Programmazione%20Per%20Il%20Web/Registrazione%20Sito%20In%20Funzione
 
 **Tecnologie utilizzate**: Html, Css, Php, Sql, Xamp, Bootstrap, Javascript
 
@@ -30,15 +37,13 @@ Nel file **funzioni.php**(https://github.com/SimPicc/Portfolio/blob/main/Muusico
 Progetto elaborato in coppia
 
 
+
+
+
+
 **---ENGLISH---**
 
 Website created for a university exam
-
-Short demonstration video
-
-![Site demo](./Rec_Breve_Muusico.gif)
-
-Extended video: https://github.com/SimPicc/Portfolio/tree/main/Muusico%20(Web%20Site)%20-%20Esame%20Programmazione%20Per%20Il%20Web/Registrazione%20Sito%20In%20Funzione
 
 **Technologies used**: HTML, CSS, PHP, SQL, XAMPP, Bootstrap, JavaScript
 
