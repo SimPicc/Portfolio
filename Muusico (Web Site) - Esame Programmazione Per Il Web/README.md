@@ -1,6 +1,6 @@
 # **MUUSICO**
 
-**--ITALIANO--**
+**---ITALIANO---**
 
 Sito Web creato per esame universitario
 
@@ -30,7 +30,8 @@ Nel file **funzioni.php**(https://github.com/SimPicc/Portfolio/blob/main/Muusico
 Progetto elaborato in coppia
 
 
-**--ENGLISH--**
+**---ENGLISH---**
+
 Website created for a university exam
 
 Short demonstration video
