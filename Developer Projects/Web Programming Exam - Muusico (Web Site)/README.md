@@ -31,7 +31,7 @@ Tipologia: Compravendita di strumenti musicali
 
 -**Amministratore** -> Autorizza l'iscrizione al sito da parte degli utenti, può bloccare/sbloccare utenit, eliminare recensioni, eleminare prodotti 
 
-Nel file **funzioni.php**(https://github.com/SimPicc/Portfolio/blob/main/Muusico%20(Web%20Site)%20-%20Esame%20Programmazione%20Per%20Il%20Web/funzioni.php) sono presenti le query più importanti per il corretto funzionamento del sito, riguardo l'aggiunta, l'eliminazione o la modifica di prodotti e recensioni, il filtraggio sulla ricerca di un determinato prodotto ecc...
+Nel file **funzioni.php**(https://github.com/SimPicc/Portfolio/blob/main/Developer%20Projects/Web%20Programming%20Exam%20-%20Muusico%20(Web%20Site)/funzioni.php) sono presenti le query più importanti per il corretto funzionamento del sito, riguardo l'aggiunta, l'eliminazione o la modifica di prodotti e recensioni, il filtraggio sulla ricerca di un determinato prodotto ecc...
 
 
 Progetto elaborato in coppia
@@ -59,7 +59,7 @@ Type: Musical instrument marketplace
 
 -**Administrator** -> Approves user registrations, can block/unblock users, and delete reviews or products
 
-The **funzioni.php** file (https://github.com/SimPicc/Portfolio/blob/main/Muusico%20(Web%20Site)%20-%20Esame%20Programmazione%20Per%20Il%20Web/funzioni.php) contains the key queries required for the site's proper functioning—handling the addition, deletion, or modification of products and reviews, product search filtering, etc.
+The **funzioni.php** file (https://github.com/SimPicc/Portfolio/blob/main/Developer%20Projects/Web%20Programming%20Exam%20-%20Muusico%20(Web%20Site)/funzioni.php) contains the key queries required for the site's proper functioning—handling the addition, deletion, or modification of products and reviews, product search filtering, etc.
 
 
 Project developed as a two-person team
