@@ -1,8 +1,8 @@
 # **MUSIC PROJECTS**
 
-## Lavori svolti in qualità di chitarrista turnista, arrangiatore, produttore.
+## Lavori svolti in qualità di chitarrista turnista, arrangiatore, produttore / Work performed as a session guitarist, arranger, and producer.
 
-## **CONCERTI LIVE (GUITAR)**
+## **CONCERTI LIVE / LIVE CONCERTS (GUITAR)**
 
 Live Galbanino Stand (Milano) for Daniele Cella (Profilo artista: https://www.youtube.com/@DanieleCella)
 
@@ -52,7 +52,7 @@ Live Rec Format Live In Demo (Milano) for Daniele Cella (https://www.youtube.com
 
 Live Rec Cascina Cotica (Milano) for Daniele Cella
 
-## **REGISTRAZIONI IN STUDIO (GUITAR)**
+## **REGISTRAZIONI IN STUDIO / STUDIO RECORDINGS (GUITAR)**
 
 Daniele Cella - EP "Vol.0" (Tracce: Senza Fiato, A Viso Aperto, Converse & Jeans, 4:20, Un Sottinteso Arrivederci) (https://www.youtube.com/watch?v=U4II_8ZwKcs&list=OLAK5uy_lkdo93nU-cq3hkzlrVK42MEnxsF7hcWPY)  
 
