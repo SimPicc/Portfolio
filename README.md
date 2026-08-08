@@ -1,4 +1,4 @@
-# Portfolio Simone Piccirillo
+# Portfolio - Simone Piccirillo
 
 ## DEVELOPER AND MUSIC PROJECTS
 
