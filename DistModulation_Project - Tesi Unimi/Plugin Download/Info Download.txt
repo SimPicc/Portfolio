@@ -1,9 +1,0 @@
-**ITALIANO**
-Windows: Copiare il Vst3 nella cartella C/Programmi/Common Files/Vst3
-
-Mac: Caricare nella cartella, in caso di problemi andare in Impostazioni Di Sistema -> Privacy E Sicurezza -> Click su "Apri Comunque"
-
-**ENGLISH**
-Windows: Copy the VST3 to the C/Program Files/Common Files/VST3 folder.
-
-Mac: Upload to the folder. If you encounter problems, go to System Settings -> Privacy and Security -> Click "Open Anyway."
