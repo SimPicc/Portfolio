@@ -54,15 +54,15 @@ Live Rec Cascina Cotica (Milano) for Daniele Cella
 
 ## **REGISTRAZIONI IN STUDIO / STUDIO RECORDINGS (GUITAR)**
 
-Daniele Cella - EP "Vol.0" (Tracce: Senza Fiato, A Viso Aperto, Converse & Jeans, 4:20, Un Sottinteso Arrivederci) (https://www.youtube.com/watch?v=U4II_8ZwKcs&list=OLAK5uy_lkdo93nU-cq3hkzlrVK42MEnxsF7hcWPY)  
+Daniele Cella - EP "Vol.0" (Tracce: "Senza Fiato", "A Viso Aperto", "Converse & Jeans", "4:20", "Un Sottinteso Arrivederci") (https://www.youtube.com/watch?v=U4II_8ZwKcs&list=OLAK5uy_lkdo93nU-cq3hkzlrVK42MEnxsF7hcWPY)  
 
 Daniele Cella - Singolo "Meno Vedo" (https://www.youtube.com/watch?v=pllQJqHBP5w)
 
-Riccardo O'Grady - Singolo "Upon A Star" (Brano inserito nell’EP Universal Traveler) (https://www.youtube.com/watch?v=j_gbZ3SxVBc)
+Riccardo O'Grady - Singolo "Upon A Star" (Brano inserito nell’EP "Universal Traveler") (https://www.youtube.com/watch?v=j_gbZ3SxVBc)
 
-Riccardo O'Grady - My My, Hey Hey (Neil Young Cover) (https://www.youtube.com/watch?v=oufC63-uCbA)
+Riccardo O'Grady - "My My, Hey Hey" (Neil Young Cover) (https://www.youtube.com/watch?v=oufC63-uCbA)
 
-Riccardo O'Grady - Black Swan (Thom Yorke Cover) (https://www.youtube.com/watch?v=NKlrNgPfS_0)
+Riccardo O'Grady - "Black Swan" (Thom Yorke Cover) (https://www.youtube.com/watch?v=NKlrNgPfS_0)
 
 Riccardo O'Grady - Singolo "Confused Speeches" (Brano inserito nella serie Netflix "Tutto Chiede Salvezza 2", Episodio 2) (https://www.youtube.com/watch?v=9CKuXxSgjwQ)
 
