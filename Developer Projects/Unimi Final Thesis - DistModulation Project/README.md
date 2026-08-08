@@ -23,9 +23,9 @@ Il Plugin presenta 3 effetti:
 I 3 effetti sono implementati in una catena modulabile che permette il posizionamento degli effetti in qualsiasi punto della catena secondo la preferenza dell'utente
 Sviluppi futuri per la catena -> Rendere il posizionamento degli effetti tramite un'operazione di Drag&Drop
 
-Ascolta degli esempi registrati utilizzando il Plugin: https://github.com/SimPicc/Portfolio/tree/main/DistModulation_Project%20-%20Tesi%20Unimi/Esempi%20Audio
+Ascolta degli esempi registrati utilizzando il Plugin: https://github.com/SimPicc/Portfolio/tree/main/Developer%20Projects/Unimi%20Final%20Thesis%20-%20DistModulation%20Project/Audio%20Example 
 
-Fai il Download del Plugin qui: https://github.com/SimPicc/Portfolio/tree/main/DistModulation_Project%20-%20Tesi%20Unimi/Plugin%20Download
+Fai il Download del Plugin qui: https://github.com/SimPicc/Portfolio/tree/main/Developer%20Projects/Unimi%20Final%20Thesis%20-%20DistModulation%20Project/Download%20Plugin
 
 
 
@@ -51,6 +51,6 @@ Future developments for this effect -> Increase the number of voices to make the
 The 3 effects are implemented in a modular chain that allows the effects to be positioned anywhere in the chain according to the user's preference
 Future developments for the chain -> Make the placement of effects via Drag&Drop.
 
-Listen to recorded examples using the plugin: https://github.com/SimPicc/Portfolio/tree/main/DistModulation_Project%20-%20Tesi%20Unimi/Esempi%20Audio
+Listen to recorded examples using the plugin: https://github.com/SimPicc/Portfolio/tree/main/Developer%20Projects/Unimi%20Final%20Thesis%20-%20DistModulation%20Project/Audio%20Example
 
-Download the plugin here: https://github.com/SimPicc/Portfolio/tree/main/DistModulation_Project%20-%20Tesi%20Unimi/Plugin%20Download
+Download the plugin here: https://github.com/SimPicc/Portfolio/tree/main/Developer%20Projects/Unimi%20Final%20Thesis%20-%20DistModulation%20Project/Download%20Plugin
