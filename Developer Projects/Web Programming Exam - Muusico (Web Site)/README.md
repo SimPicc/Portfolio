@@ -3,7 +3,7 @@
 
 Breve video di dimostrazione/Short demonstration video
 
-![Demo del sito](./Rec_Breve_Muusico.gif)
+![Demo del sito](./Rec_Short_Muusico.gif)
 
 
 Video esteso/Extended Video
