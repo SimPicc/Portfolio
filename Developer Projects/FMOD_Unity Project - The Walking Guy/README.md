@@ -1,6 +1,7 @@
 # **THE WALKING GUY**
 
-Gioco realizzato interamente con Unity per la parte Grafica e Logica e FMOD per la parte Audio Interattiva
+### **ITALIANO**
+Gioco realizzato interamente con Unity per la parte Grafica e Logica, e FMOD per la parte Audio Interattiva
 
 **Tecnologie Utilizzate** -> Unity, FMOD, C#, Cubase
 
@@ -10,6 +11,19 @@ Per ogni stanza e per le piattaforme nere che collegano i vari ambienti sono sta
 
 All'interno del gioco è possibile visionare le regole per la vittoria e i controlli necessari per gestire il Player.
 
-## **Breve dimostrazione del gioco**
+### **ENGLISH**
+A game developed entirely using Unity for Graphics and Logic, and FMOD for Interactive Audio.
+
+**Technologies Used** -> Unity, FMOD, C#, Cubase
+
+The game features a top-down view displaying six differently colored rooms and a Player character that can be moved around the play area.
+
+Dedicated music tracks were created for each room and for the black platforms connecting the various areas, these tracks play as the player moves between locations. 
+
+Sound design was also implemented for player actions such as footsteps, jumping, and heavy breathing—as well as for ambient wind sounds (in both the game area and the menu) and the sound for collecting cubes.
+
+You can view the winning conditions and the controls needed to manage the character within the game.
+
+## **Breve dimostrazione del gioco/ Short demonstration of the game**
 
 ![Gameplay Gioco](./TheWalkingGuy_Gameplay.gif)
