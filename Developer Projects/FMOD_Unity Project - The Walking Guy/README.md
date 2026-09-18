@@ -1,6 +1,6 @@
 # **THE WALKING GUY**
 
-Progetto realizzato interamente con Unity per la parte grafica e logica e FMOD per la parte Audio Interattiva
+Gioco realizzato interamente con Unity per la parte Grafica e Logica e FMOD per la parte Audio Interattiva
 
 **Tecnologie Utilizzate** -> Unity, FMOD, C#, Cubase
 
