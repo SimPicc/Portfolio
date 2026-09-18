@@ -2,7 +2,7 @@
 
 ---**ITALIANO**---
 
-Plugin Audio in formato Vst3 di una Catena Modulare Di Effetti
+Plugin Audio in formato Vst3 di una Catena Modulare Di Effetti.
 
 Tecnologie usate: C++, JUCE, programmazione ad oggetti
 
