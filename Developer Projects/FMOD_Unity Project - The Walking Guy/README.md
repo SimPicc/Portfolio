@@ -1,4 +1,4 @@
-**THE WALKING GUY**
+# **THE WALKING GUY**
 
 Progetto realizzato interamente con Unity per la parte grafica e logica e FMOD per la parte Audio Interattiva
 
