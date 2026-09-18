@@ -10,6 +10,6 @@ Per ogni stanza e per le piattaforme nere che collegano i vari ambienti sono sta
 
 All'interno del gioco è possibile visionare le regole per la vittoria e i controlli necessari per gestire il Player.
 
-**Breve dimostrazione del gioco**
+## **Breve dimostrazione del gioco**
 
 ![Gameplay Gioco](./TheWalkingGuy_Gameplay.gif)
