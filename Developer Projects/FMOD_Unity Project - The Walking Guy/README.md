@@ -9,3 +9,5 @@ Il gioco si presenta con un'inquadratura dall'alto che mostra 6 stanze di colore
 Per ogni stanza e per le piattaforme nere che collegano i vari ambienti sono state create musiche dedicate che è possibile sentire recandosi nei diversi luoghi, è stato implementato anche il Sound Design riguardo al suono dei passi, del salto e dell'affanno del Player, del suono vento fisso nell'area di gioco e nel Menù e del suono della presa dei vari cubi collezionabili.
 
 All'interno del gioco è possibile visionare le regole per la vittoria e i controlli necessari per gestire il Player.
+
+**Breve dimostrazione del gioco**
