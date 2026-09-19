@@ -8,7 +8,7 @@ Tecnologie utilizzate -> SuperCollider, Cubase
 
 Tutti i suoni sono programmati utilizzando SuperCollider, esportati e campionati all'interno di Cubase per poi creare il Sound Design del video.
 
-SuperCollider file ->
+SuperCollider file -> https://github.com/SimPicc/Portfolio/blob/main/Developer%20Projects/Sound%20Design%20Project%20-%20Game%20Over/Game_Over_Project.scd
 
 Download Video -> https://github.com/SimPicc/Portfolio/blob/main/Developer%20Projects/Sound%20Design%20Project%20-%20Game%20Over/Game_Over.zip
 
@@ -20,6 +20,6 @@ Technologies used -> SuperCollider, Cubase
 
 All sounds were programmed using SuperCollider, then exported and sampled in Cubase to create the video's sound design.
 
-SuperCollider file ->
+SuperCollider file -> https://github.com/SimPicc/Portfolio/blob/main/Developer%20Projects/Sound%20Design%20Project%20-%20Game%20Over/Game_Over_Project.scd
 
 Download Video -> https://github.com/SimPicc/Portfolio/blob/main/Developer%20Projects/Sound%20Design%20Project%20-%20Game%20Over/Game_Over.zip
