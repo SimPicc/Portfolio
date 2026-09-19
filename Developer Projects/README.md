@@ -1,3 +1,9 @@
-# **PROGETTI RIGUARDO LA PROGRAMMAZIONE IN DIVERSI LINGUAGGI E DIVERSI AMBIENTI**
+# **DEVELOPER PROJECTS**
 
-Progetti realizzati sia per esami universitari sia per volontà mia per andare ad approfondire diverse tecnologie e linguaggi
+Unimi Thesis_DistModulation -> Audio Plugin VST3: C++, Juce, OOP
+
+The Walking Guy -> Little funny game: Unity, FMOD 
+
+Game Over -> Sound Design: SuperCollider, Cubase
+
+Muusico -> Web Site: Html, CSS, Php, JavaScript, SQL
