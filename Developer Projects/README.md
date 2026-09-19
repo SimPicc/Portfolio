@@ -1,9 +1,9 @@
 # **DEVELOPER PROJECTS**
 
-The Walking Guy -> Little funny game: Unity, FMOD 
+**The Walking Guy -> Little funny game**: Unity, FMOD 
 
-Game Over -> Sound Design: SuperCollider, Cubase
+**Game Over -> Sound Design**: SuperCollider, Cubase
 
-Unimi Thesis_DistModulation -> Audio Plugin VST3: C++, Juce, OOP
+**Unimi Thesis_DistModulation -> Audio Plugin VST3**: C++, Juce, OOP
 
-Muusico -> Web Site: Html, CSS, Php, JavaScript, SQL
+**Muusico -> Web Site**: Html, CSS, Php, JavaScript, SQL
