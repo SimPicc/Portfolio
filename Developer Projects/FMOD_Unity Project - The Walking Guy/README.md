@@ -22,7 +22,7 @@ A game developed entirely using Unity for Graphics and Logic, and FMOD for Inter
 
 The game features a top-down view displaying six differently colored rooms and a Player character that can be moved around the play area.
 
-Dedicated music tracks were created for each room and for the black platforms connecting the various areas, these tracks play as the player moves between locations. 
+I created dedicated music tracks for each room and for the black platforms connecting the various areas, these tracks play as the player moves between locations. 
 
 Sound design was also implemented for player actions such as footsteps, jumping, and heavy breathing—as well as for ambient wind sounds (in both the game area and the menu) and the sound for collecting cubes.
 
