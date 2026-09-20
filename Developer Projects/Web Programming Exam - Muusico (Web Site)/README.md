@@ -34,7 +34,7 @@ Tipologia: Compravendita di strumenti musicali
 Nel file **funzioni.php**(https://github.com/SimPicc/Portfolio/blob/main/Developer%20Projects/Web%20Programming%20Exam%20-%20Muusico%20(Web%20Site)/funzioni.php) sono presenti le query più importanti per il corretto funzionamento del sito, riguardo l'aggiunta, l'eliminazione o la modifica di prodotti e recensioni, il filtraggio sulla ricerca di un determinato prodotto ecc...
 
 
-Progetto elaborato in coppia
+Progetto elaborato in coppia.
 
 
 
