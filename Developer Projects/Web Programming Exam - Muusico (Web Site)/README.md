@@ -17,7 +17,7 @@ https://github.com/SimPicc/Portfolio/blob/main/Developer%20Projects/Web%20Progra
 Sito Web creato per esame universitario.
 
 
-**Tecnologie utilizzate**: Html, Css, Php, Sql, Xamp, Bootstrap, Javascript
+**Tecnologie utilizzate**: Html, Css, Bootstrap, Php, Javascript, Sql, Xamp 
 
 Nome del sito: Muusico
 
