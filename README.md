@@ -1,5 +1,5 @@
 # Portfolio - Simone Piccirillo
 
-## DEVELOPER AND MUSIC PROJECTS
+## DEVELOPER PROJECTS
 
 In continuo aggiornamento...
