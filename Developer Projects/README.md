@@ -1,6 +1,6 @@
 # **DEVELOPER PROJECTS**
 
-**The Walking Guy -> Little funny game**: Unity, FMOD 
+**The Walking Guy -> Little Funny Game**: Unity, FMOD 
 
 **Game Over -> Sound Design**: SuperCollider, Cubase
 
